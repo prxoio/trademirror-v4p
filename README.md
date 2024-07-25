@@ -3,7 +3,7 @@
 # TradeMirrorV4: Automated Trading System for ApolloX Crypto Perpetuals
 
 ## Info
-This repo contains two modules, 'bsc-monitor' and 'trademirror-v4'. The modules are designed to be run separately.
+This repo contains two modules, 'bsc-monitor' and 'trademirror-v4'. The modules are currently designed to be run separately on the same system.
 
 ## Introduction
 

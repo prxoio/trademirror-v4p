@@ -2,6 +2,9 @@
 
 # TradeMirrorV4: Automated Trading System for ApolloX Crypto Perpetuals
 
+## Info
+This repo contains two modules, 'bsc-monitor' and 'trademirror-v4'. The modules are designed to be run separately.
+
 ## Introduction
 
  Introducing TradeMirrorV4, an automated trading system developed for the ApolloX (APX) crypto perpetuals exchange. TradeMirrorV seeks to optimise trading outcomes by replicating trades from successful traders with a win rate exceeding 60%. By leveraging novel technologies and efficient system architecture, TradeMirrorV4 aims to optimise trading outcomes in the fast-paced cryptocurrency market.

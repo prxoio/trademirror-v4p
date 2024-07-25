@@ -1,9 +1,9 @@
 # TradeMirrorV4: Proof of Concept
-### Automated Trading System for ApolloX Crypto Perpetuals
+### Automated Trading System for Crypto Perpetuals
 
 ## Table of Contents
 - [TradeMirrorV4: Proof of Concept](#trademirrorv4-proof-of-concept)
-    - [Automated Trading System for ApolloX Crypto Perpetuals](#automated-trading-system-for-apollox-crypto-perpetuals)
+    - [Automated Trading System for Crypto Perpetuals](#automated-trading-system-for-crypto-perpetuals)
   - [Table of Contents](#table-of-contents)
   - [Info](#info)
   - [Introduction](#introduction)

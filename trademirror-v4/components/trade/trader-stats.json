@@ -1,0 +1,778 @@
+[
+  {
+    "address": "0xc1b42549b870a8822d8f053300f981692cc63e85",
+    "realizedPnL": 638475.3,
+    "netIncome": 431040.3,
+    "winTrades": 312,
+    "lossTrades": 52,
+    "winRate": 85.71,
+    "totalTrades": 364,
+    "totalTradesNormalized": 150,
+    "averageReturn": 1754.05,
+    "totalReturnAvg": 547264.54,
+    "medianDriftReturn": 20,
+    "compositeScore": 120.25,
+    "riskScore": 94.62,
+    "finalScore": 137.13,
+    "rank": 2
+  },
+  {
+    "address": "0xe203af871dae072951d6a905a2a52b24f3da8e7a",
+    "realizedPnL": 514398,
+    "netIncome": 421665.1,
+    "winTrades": 14,
+    "lossTrades": 12,
+    "winRate": 53.85,
+    "totalTrades": 26,
+    "totalTradesNormalized": 26,
+    "averageReturn": 19784.54,
+    "totalReturnAvg": 276983.54,
+    "medianDriftReturn": 20,
+    "compositeScore": 90.63,
+    "riskScore": 63.2,
+    "finalScore": 89.21,
+    "rank": 3
+  },
+  {
+    "address": "0x274e4b2d359f709b36532b95471d01ced40fc7cc",
+    "realizedPnL": 106882,
+    "netIncome": 87966.7,
+    "winTrades": 78,
+    "lossTrades": 2,
+    "winRate": 97.5,
+    "totalTrades": 80,
+    "totalTradesNormalized": 80,
+    "averageReturn": 1336.03,
+    "totalReturnAvg": 104209.95,
+    "medianDriftReturn": 36.23,
+    "compositeScore": 96.55,
+    "riskScore": 100.93,
+    "finalScore": 135.14,
+    "rank": 4
+  },
+  {
+    "address": "0x047c2e312fa0ff39812edf7eb8f9b192bcd68366",
+    "realizedPnL": 101559.1,
+    "netIncome": 77110.7,
+    "winTrades": 14,
+    "lossTrades": 7,
+    "winRate": 66.67,
+    "totalTrades": 21,
+    "totalTradesNormalized": 21,
+    "averageReturn": 4836.15,
+    "totalReturnAvg": 67706.07,
+    "medianDriftReturn": 20,
+    "compositeScore": 67.71,
+    "riskScore": 68.88,
+    "finalScore": 90.57,
+    "rank": 5
+  },
+  {
+    "address": "0x3565e13189a603d4f49219617408d8f25cce0414",
+    "realizedPnL": 114364.7,
+    "netIncome": 73212.1,
+    "winTrades": 274,
+    "lossTrades": 247,
+    "winRate": 52.59,
+    "totalTrades": 521,
+    "totalTradesNormalized": 150,
+    "averageReturn": 219.51,
+    "totalReturnAvg": 60145.73,
+    "medianDriftReturn": 77.05,
+    "compositeScore": 54.65,
+    "riskScore": 60.71,
+    "finalScore": 86.71,
+    "rank": 6
+  },
+  {
+    "address": "0x654b7cbbcfb7bc3c84df89cee63b7b3acb909a0b",
+    "realizedPnL": 162265.9,
+    "netIncome": 62139,
+    "winTrades": 85,
+    "lossTrades": 77,
+    "winRate": 52.47,
+    "totalTrades": 162,
+    "totalTradesNormalized": 150,
+    "averageReturn": 1001.64,
+    "totalReturnAvg": 85139.52,
+    "medianDriftReturn": 62.2,
+    "compositeScore": 53.44,
+    "riskScore": 58.88,
+    "finalScore": 84.46,
+    "rank": 7
+  },
+  {
+    "address": "0x444bc2d8d220ea012b74c3e5753e49c6f7290ce3",
+    "realizedPnL": 80708.8,
+    "netIncome": 51180.7,
+    "winTrades": 72,
+    "lossTrades": 4,
+    "winRate": 94.74,
+    "totalTrades": 76,
+    "totalTradesNormalized": 76,
+    "averageReturn": 1061.96,
+    "totalReturnAvg": 76460.97,
+    "medianDriftReturn": 57.52,
+    "compositeScore": 90.38,
+    "riskScore": 99.62,
+    "finalScore": 132.22,
+    "rank": 8
+  },
+  {
+    "address": "0xf8a64d63ff692ee1ad40f45685fe0a4124ac5a49",
+    "realizedPnL": 51142.1,
+    "netIncome": 40231.9,
+    "winTrades": 49,
+    "lossTrades": 1,
+    "winRate": 98,
+    "totalTrades": 50,
+    "totalTradesNormalized": 50,
+    "averageReturn": 1022.84,
+    "totalReturnAvg": 50119.26,
+    "medianDriftReturn": 60.56,
+    "compositeScore": 92.22,
+    "riskScore": 102.9,
+    "finalScore": 134.63,
+    "rank": 9
+  },
+  {
+    "address": "0xf68f4429c559c6081f1df4583433f37fdf20091f",
+    "realizedPnL": 48352.5,
+    "netIncome": 39340,
+    "winTrades": 203,
+    "lossTrades": 116,
+    "winRate": 63.64,
+    "totalTrades": 319,
+    "totalTradesNormalized": 150,
+    "averageReturn": 151.58,
+    "totalReturnAvg": 30769.77,
+    "medianDriftReturn": 71.77,
+    "compositeScore": 61.21,
+    "riskScore": 70.33,
+    "finalScore": 98.6,
+    "rank": 10
+  },
+  {
+    "address": "0x53e32cecc544c4f069c08218aa270ba43cc7c74b",
+    "realizedPnL": 48211.8,
+    "netIncome": 39178.9,
+    "winTrades": 10,
+    "lossTrades": 1,
+    "winRate": 90.91,
+    "totalTrades": 11,
+    "totalTradesNormalized": 20,
+    "averageReturn": 4382.89,
+    "totalReturnAvg": 43828.91,
+    "medianDriftReturn": 20,
+    "compositeScore": 85.74,
+    "riskScore": 91.87,
+    "finalScore": 119.41,
+    "rank": 11
+  },
+  {
+    "address": "0x5db201ae15f9702f0a0ff9f00b8c1c18355373d0",
+    "realizedPnL": 36638,
+    "netIncome": 37023.3,
+    "winTrades": 29,
+    "lossTrades": 16,
+    "winRate": 64.44,
+    "totalTrades": 45,
+    "totalTradesNormalized": 45,
+    "averageReturn": 814.18,
+    "totalReturnAvg": 23611.16,
+    "medianDriftReturn": 76.76,
+    "compositeScore": 61.7,
+    "riskScore": 71.57,
+    "finalScore": 93.77,
+    "rank": 12
+  },
+  {
+    "address": "0x4f10028917c3972003c653ed5554cca49ed7b018",
+    "realizedPnL": 43746.3,
+    "netIncome": 26094.7,
+    "winTrades": 28,
+    "lossTrades": 21,
+    "winRate": 57.14,
+    "totalTrades": 49,
+    "totalTradesNormalized": 49,
+    "averageReturn": 892.78,
+    "totalReturnAvg": 24997.89,
+    "medianDriftReturn": 70.66,
+    "compositeScore": 54.04,
+    "riskScore": 63.59,
+    "finalScore": 83.69,
+    "rank": 13
+  },
+  {
+    "address": "0xc2f7f5233b205d1d604d2acd34f030e2f7cba13f",
+    "realizedPnL": 70368.4,
+    "netIncome": 18140.1,
+    "winTrades": 87,
+    "lossTrades": 60,
+    "winRate": 59.18,
+    "totalTrades": 147,
+    "totalTradesNormalized": 147,
+    "averageReturn": 478.7,
+    "totalReturnAvg": 41646.6,
+    "medianDriftReturn": 97.18,
+    "compositeScore": 55.08,
+    "riskScore": 68.08,
+    "finalScore": 94.72,
+    "rank": 14
+  },
+  {
+    "address": "0x9a0dd7c26cdd3eda6d9e0934f0a82272e639013c",
+    "realizedPnL": 20494.9,
+    "netIncome": 17862.9,
+    "winTrades": 19,
+    "lossTrades": 3,
+    "winRate": 86.36,
+    "totalTrades": 22,
+    "totalTradesNormalized": 22,
+    "averageReturn": 931.59,
+    "totalReturnAvg": 17700.14,
+    "medianDriftReturn": 67.64,
+    "compositeScore": 79.51,
+    "riskScore": 91.76,
+    "finalScore": 118.16,
+    "rank": 15
+  },
+  {
+    "address": "0x9b48d98f670269561801dec94a2f8ad1bd60f925",
+    "realizedPnL": 23457.2,
+    "netIncome": 17600.7,
+    "winTrades": 10,
+    "lossTrades": 4,
+    "winRate": 71.43,
+    "totalTrades": 14,
+    "totalTradesNormalized": 20,
+    "averageReturn": 1675.51,
+    "totalReturnAvg": 16755.14,
+    "medianDriftReturn": 20,
+    "compositeScore": 66.05,
+    "riskScore": 72.35,
+    "finalScore": 94,
+    "rank": 16
+  },
+  {
+    "address": "0x2e0f34335f8636e3acfd0400e8127c025e221ee9",
+    "realizedPnL": 20871.6,
+    "netIncome": 17431.9,
+    "winTrades": 17,
+    "lossTrades": 19,
+    "winRate": 47.22,
+    "totalTrades": 36,
+    "totalTradesNormalized": 36,
+    "averageReturn": 579.77,
+    "totalReturnAvg": 9856.03,
+    "medianDriftReturn": 94.97,
+    "compositeScore": 44.24,
+    "riskScore": 56.12,
+    "finalScore": 72.74,
+    "rank": 17
+  },
+  {
+    "address": "0x50ca336558cf98839638092f3e12a78c4042733f",
+    "realizedPnL": 23012.4,
+    "netIncome": 16350.7,
+    "winTrades": 19,
+    "lossTrades": 8,
+    "winRate": 70.37,
+    "totalTrades": 27,
+    "totalTradesNormalized": 27,
+    "averageReturn": 852.31,
+    "totalReturnAvg": 16193.91,
+    "medianDriftReturn": 73.8,
+    "compositeScore": 64.97,
+    "riskScore": 76.67,
+    "finalScore": 98.95,
+    "rank": 18
+  },
+  {
+    "address": "0x79e747347f59f380fb4d52c2cd6c635c95ae296e",
+    "realizedPnL": 17020.9,
+    "netIncome": 16275.1,
+    "winTrades": 46,
+    "lossTrades": 11,
+    "winRate": 80.7,
+    "totalTrades": 57,
+    "totalTradesNormalized": 57,
+    "averageReturn": 298.61,
+    "totalReturnAvg": 13736.16,
+    "medianDriftReturn": 83.19,
+    "compositeScore": 74.26,
+    "riskScore": 87.73,
+    "finalScore": 114.78,
+    "rank": 19
+  },
+  {
+    "address": "0x5f4184cdcf5988ddb64e08458b5063165daecdb9",
+    "realizedPnL": 25017.4,
+    "netIncome": 14234.8,
+    "winTrades": 517,
+    "lossTrades": 476,
+    "winRate": 52.06,
+    "totalTrades": 993,
+    "totalTradesNormalized": 150,
+    "averageReturn": 25.19,
+    "totalReturnAvg": 13025.17,
+    "medianDriftReturn": 61.96,
+    "compositeScore": 48.28,
+    "riskScore": 57.5,
+    "finalScore": 81.91,
+    "rank": 20
+  },
+  {
+    "address": "0x076994675fd674cea2c5539b91646100abbd4e6c",
+    "realizedPnL": 18234.4,
+    "netIncome": 14134.4,
+    "winTrades": 18,
+    "lossTrades": 0,
+    "winRate": 100,
+    "totalTrades": 18,
+    "totalTradesNormalized": 20,
+    "averageReturn": 1013.02,
+    "totalReturnAvg": 18234.4,
+    "medianDriftReturn": 61.32,
+    "compositeScore": 91.41,
+    "riskScore": 104.41,
+    "finalScore": 134.34,
+    "rank": 21
+  },
+  {
+    "address": "0x31ac1173b7992509a960dd7e2f55aaa4eeaadbe8",
+    "realizedPnL": 19585.6,
+    "netIncome": 13632.8,
+    "winTrades": 37,
+    "lossTrades": 30,
+    "winRate": 55.22,
+    "totalTrades": 67,
+    "totalTradesNormalized": 67,
+    "averageReturn": 292.32,
+    "totalReturnAvg": 10815.93,
+    "medianDriftReturn": 82.7,
+    "compositeScore": 51.06,
+    "riskScore": 62.66,
+    "finalScore": 83.16,
+    "rank": 22
+  },
+  {
+    "address": "0x09460d2e03502e39352f1311b3e7b00aff0f23da",
+    "realizedPnL": 19510.3,
+    "netIncome": 13588.8,
+    "winTrades": 13,
+    "lossTrades": 1,
+    "winRate": 92.86,
+    "totalTrades": 14,
+    "totalTradesNormalized": 20,
+    "averageReturn": 1393.59,
+    "totalReturnAvg": 18116.71,
+    "medianDriftReturn": 31.76,
+    "compositeScore": 84.93,
+    "riskScore": 94.45,
+    "finalScore": 122.08,
+    "rank": 23
+  },
+  {
+    "address": "0x511dead182a47c60034fedf36ea0714972625e85",
+    "realizedPnL": 16772.5,
+    "netIncome": 12448.9,
+    "winTrades": 10,
+    "lossTrades": 3,
+    "winRate": 76.92,
+    "totalTrades": 13,
+    "totalTradesNormalized": 20,
+    "averageReturn": 1290.19,
+    "totalReturnAvg": 12901.92,
+    "medianDriftReturn": 39.79,
+    "compositeScore": 70.48,
+    "riskScore": 79.61,
+    "finalScore": 102.87,
+    "rank": 24
+  },
+  {
+    "address": "0x3494f5763b3d69b035f7d397a3264aebbe0fcbd0",
+    "realizedPnL": 22259.5,
+    "netIncome": 8247.3,
+    "winTrades": 35,
+    "lossTrades": 12,
+    "winRate": 74.47,
+    "totalTrades": 47,
+    "totalTradesNormalized": 47,
+    "averageReturn": 473.61,
+    "totalReturnAvg": 16576.22,
+    "medianDriftReturn": 96.78,
+    "compositeScore": 67.85,
+    "riskScore": 82.82,
+    "finalScore": 107.49,
+    "rank": 26
+  },
+  {
+    "address": "0x8f5b6fbf198bd64ddf50420a198867d33222c9ee",
+    "realizedPnL": 9380.9,
+    "netIncome": 8233.5,
+    "winTrades": 11,
+    "lossTrades": 6,
+    "winRate": 64.71,
+    "totalTrades": 17,
+    "totalTradesNormalized": 20,
+    "averageReturn": 551.82,
+    "totalReturnAvg": 6069.99,
+    "medianDriftReturn": 97.14,
+    "compositeScore": 59.06,
+    "riskScore": 73.29,
+    "finalScore": 93.63,
+    "rank": 27
+  },
+  {
+    "address": "0xef0f7c86d98f6b410f231a91262de28199999dc9",
+    "realizedPnL": 7403.9,
+    "netIncome": 6951.7,
+    "winTrades": 134,
+    "lossTrades": 9,
+    "winRate": 93.71,
+    "totalTrades": 143,
+    "totalTradesNormalized": 143,
+    "averageReturn": 51.78,
+    "totalReturnAvg": 6937.92,
+    "medianDriftReturn": 64.02,
+    "compositeScore": 85.03,
+    "riskScore": 98.37,
+    "finalScore": 133.8,
+    "rank": 28
+  },
+  {
+    "address": "0x79e0fcac85f8f32d599ea3b68f8781cfafbd5058",
+    "realizedPnL": 16823.8,
+    "netIncome": 6879.4,
+    "winTrades": 127,
+    "lossTrades": 99,
+    "winRate": 56.19,
+    "totalTrades": 226,
+    "totalTradesNormalized": 150,
+    "averageReturn": 74.44,
+    "totalReturnAvg": 9454.08,
+    "medianDriftReturn": 65.78,
+    "compositeScore": 51.26,
+    "riskScore": 61.79,
+    "finalScore": 87.22,
+    "rank": 29
+  },
+  {
+    "address": "0x17c3ad53226086a49982c9db9bcff4432837573d",
+    "realizedPnL": 8775.8,
+    "netIncome": 6538.9,
+    "winTrades": 18,
+    "lossTrades": 7,
+    "winRate": 72,
+    "totalTrades": 25,
+    "totalTradesNormalized": 25,
+    "averageReturn": 351.03,
+    "totalReturnAvg": 6318.58,
+    "medianDriftReturn": 87.26,
+    "compositeScore": 65.45,
+    "riskScore": 79.42,
+    "finalScore": 101.95,
+    "rank": 30
+  },
+  {
+    "address": "0x7debce7bd7da9d571ecdf59a5af5e495d32fc0e2",
+    "realizedPnL": 9032.4,
+    "netIncome": 6129.5,
+    "winTrades": 19,
+    "lossTrades": 0,
+    "winRate": 100,
+    "totalTrades": 19,
+    "totalTradesNormalized": 20,
+    "averageReturn": 475.39,
+    "totalReturnAvg": 9032.4,
+    "medianDriftReturn": 96.92,
+    "compositeScore": 90.61,
+    "riskScore": 107.81,
+    "finalScore": 137.92,
+    "rank": 31
+  },
+  {
+    "address": "0xf1140b06bdc017e9894e652bb06f2633ad7c0131",
+    "realizedPnL": 8357.1,
+    "netIncome": 6082.6,
+    "winTrades": 10,
+    "lossTrades": 3,
+    "winRate": 76.92,
+    "totalTrades": 13,
+    "totalTradesNormalized": 20,
+    "averageReturn": 642.85,
+    "totalReturnAvg": 6428.54,
+    "medianDriftReturn": 90.07,
+    "compositeScore": 69.84,
+    "riskScore": 84.51,
+    "finalScore": 108.13,
+    "rank": 32
+  },
+  {
+    "address": "0x283694a49146920aea7372c1b8b83b119b678f70",
+    "realizedPnL": 24560.1,
+    "netIncome": 5983.9,
+    "winTrades": 30,
+    "lossTrades": 14,
+    "winRate": 68.18,
+    "totalTrades": 44,
+    "totalTradesNormalized": 44,
+    "averageReturn": 558.18,
+    "totalReturnAvg": 16745.52,
+    "medianDriftReturn": 96.65,
+    "compositeScore": 61.96,
+    "riskScore": 76.6,
+    "finalScore": 99.3,
+    "rank": 33
+  },
+  {
+    "address": "0x126ff9300ab4a9c9208afc9d9103ddffc1729a90",
+    "realizedPnL": 13178.9,
+    "netIncome": 5582.8,
+    "winTrades": 23,
+    "lossTrades": 18,
+    "winRate": 56.1,
+    "totalTrades": 41,
+    "totalTradesNormalized": 41,
+    "averageReturn": 321.44,
+    "totalReturnAvg": 7393.04,
+    "medianDriftReturn": 84.97,
+    "compositeScore": 51.05,
+    "riskScore": 63.58,
+    "finalScore": 82.61,
+    "rank": 34
+  },
+  {
+    "address": "0x73bb3924dde2465ef245052731536c4c5d9e862f",
+    "realizedPnL": 8904.2,
+    "netIncome": 5184.7,
+    "winTrades": 47,
+    "lossTrades": 26,
+    "winRate": 64.38,
+    "totalTrades": 73,
+    "totalTradesNormalized": 73,
+    "averageReturn": 121.98,
+    "totalReturnAvg": 5732.84,
+    "medianDriftReturn": 69.47,
+    "compositeScore": 58.46,
+    "riskScore": 70.15,
+    "finalScore": 93.23,
+    "rank": 35
+  },
+  {
+    "address": "0x30f89f5f4cf25f457b4d9cbfb64a64a97f00bed0",
+    "realizedPnL": 7611,
+    "netIncome": 3957.7,
+    "winTrades": 75,
+    "lossTrades": 30,
+    "winRate": 71.43,
+    "totalTrades": 105,
+    "totalTradesNormalized": 105,
+    "averageReturn": 72.49,
+    "totalReturnAvg": 5436.43,
+    "medianDriftReturn": 65.63,
+    "compositeScore": 64.68,
+    "riskScore": 76.64,
+    "finalScore": 103.54,
+    "rank": 36
+  },
+  {
+    "address": "0xf695d0b2964520bf12b881d0fcd2cbcf615617f4",
+    "realizedPnL": 4458.3,
+    "netIncome": 3800.9,
+    "winTrades": 13,
+    "lossTrades": 1,
+    "winRate": 92.86,
+    "totalTrades": 14,
+    "totalTradesNormalized": 20,
+    "averageReturn": 318.45,
+    "totalReturnAvg": 4139.85,
+    "medianDriftReturn": 84.73,
+    "compositeScore": 83.95,
+    "riskScore": 99.55,
+    "finalScore": 127.49,
+    "rank": 37
+  },
+  {
+    "address": "0x97ac643dc1febd0dcb4a3298146f4ee8ebea2df5",
+    "realizedPnL": 14048.7,
+    "netIncome": 2950.4,
+    "winTrades": 82,
+    "lossTrades": 53,
+    "winRate": 60.74,
+    "totalTrades": 135,
+    "totalTradesNormalized": 135,
+    "averageReturn": 104.06,
+    "totalReturnAvg": 8533.28,
+    "medianDriftReturn": 68.08,
+    "compositeScore": 54.96,
+    "riskScore": 66.39,
+    "finalScore": 92.12,
+    "rank": 38
+  },
+  {
+    "address": "0x088450d657ab2fbd16c3693c3f4b12cf65e995a6",
+    "realizedPnL": 10755.8,
+    "netIncome": 2547.5,
+    "winTrades": 24,
+    "lossTrades": 18,
+    "winRate": 57.14,
+    "totalTrades": 42,
+    "totalTradesNormalized": 42,
+    "averageReturn": 256.09,
+    "totalReturnAvg": 6146.17,
+    "medianDriftReturn": 79.89,
+    "compositeScore": 51.68,
+    "riskScore": 64.04,
+    "finalScore": 83.3,
+    "rank": 39
+  },
+  {
+    "address": "0xad36245cd9550CEF4bf4634D3680f050Ec51e965"
+  },
+  {
+    "address": "0xeb9A5F0c0b6E83014463125aaBFE9F5B5A8bF079"
+  },
+  {
+    "address": "0xD8a0089658629A3420139Bce751EabF344bBdb92"
+  },
+  {
+    "address": "0xc1b42549B870a8822D8F053300f981692cc63e85"
+  },
+  {
+    "address": "0x4D754B797aB446e1222140c3516CceCBf10834aE"
+  },
+  {
+    "address": "0xf68F4429C559C6081F1dF4583433F37fDF20091F"
+  },
+  {
+    "address": "0xc2f7f5233B205d1D604D2ACd34f030e2F7Cba13F"
+  },
+  {
+    "address": "0x74c7e24E4B414CA7a178Ced761F8C76C5D15632F"
+  },
+  {
+    "address": "0x858FD44C6e5dB672E5ce470Da41aDb0Ca3e399C7"
+  },
+  {
+    "address": "0x726CeE0Ee812b6a70058148D8880D96C750951f4"
+  },
+  {
+    "address": "0x96F6D83c4a544c7db92908D9906928C482e0CeE0"
+  },
+  {
+    "address": "0xB9F80e24cDe8B6443C2EE2b3033311551b9A28E3"
+  },
+  {
+    "address": "0x211847Aae8F13fA3918Bd803dcb9E12A90007600"
+  },
+  {
+    "address": "0xCfE1C5BF50729F70C39410Dea1e485f5515FD699"
+  },
+  {
+    "address": "0x6dC0715dE08a2a93E889F13B6768ff53413C49Ed"
+  },
+  {
+    "address": "0xad9eFe085b055480B7361c29b5438B4AA29F7Ba9"
+  },
+  {
+    "address": "0xB9235788Cd0b97C321C4F4baD585a150E9528F89"
+  },
+  {
+    "address": "0x1519C7961d45C52962A756d1Ece90768e186D30E"
+  },
+  {
+    "address": "0x32882b8d2f9d9fC156d70c4d95506A429a9c2505"
+  },
+  {
+    "address": "0x4D754B797aB446e1222140c3516CceCBf10834aE"
+  },
+  {
+    "address": "0x0af6fFe98F7D63927BB2Bc17eeE9Db9430044d08"
+  },
+  {
+    "address": "0xC2c2E1145365631092E7bC0bF48bA9B54d9d1e1d"
+  },
+  {
+    "address": "0x96F6D83c4a544c7db92908D9906928C482e0CeE0"
+  },
+  {
+    "address": "0x1e5c9eF6a07f8ee36E21c0c2737c9b19f5de7f2A"
+  },
+  {
+    "address": "0x003813B9F4C919f63D09AA30E57684488366B88F"
+  },
+  {
+    "address": "0xc66ccD955bF544f621Eb217D5127b723b3404aBb"
+  },
+  {
+    "address": "0x5F819f112F0359dE0Dd862D954f7DC7759F5e50B"
+  },
+  {
+    "address": "0xacDf3c321Be51eD19bDB5F15b792D70B5008b906"
+  },
+  {
+    "address": "0x2460f683eFa76C32Bb96bE584705bF22c8411262"
+  },
+  {
+    "address": "0x8F526B56aF9b11Fbe0aDa2F137a56d2D59a62a7D"
+  },
+  {
+    "address": "0x8a4c803c398230B2312333283445bC42127b2A67"
+  },
+  {
+    "address": "0xC127556838A096Be6deaE5456C770B21CF51193e"
+  },
+  {
+    "address": "0xBae8D8E87E4F501111264994dBf6355aC8a87861"
+  },
+  {
+    "address": "0xa0d48ba14800f6AcB5328026Af987b296C101128"
+  },
+  {
+    "address": "0xd9543f771Bc4BF272243D6c91aF266F23d2b8005"
+  },
+  {
+    "address": "0x3e1BAE25bC4eeb818Eab90D51E3Af356802d4Db9"
+  },
+  {
+    "address": "0x6E1141186901b6d182cdBa1A0fE17BAfF2e8B493"
+  },
+  {
+    "address": "0xBb380DD4db29912C79b8acad4Ed820924b573b5f"
+  },
+  {
+    "address": "0x52A889874C529FFE5a3881DAf452FE57Cd1c4bC5"
+  },
+  {
+    "address": "0xaB6E3e281D963Fb70E46D69B50E0027D60BE55f3"
+  },
+  {
+    "address": "0x73a8DcD77D5cebB9E84eC60FcF8f94681bEF55ce"
+  },
+  {
+    "address": "0xBae8D8E87E4F501111264994dBf6355aC8a87861"
+  },
+  {
+    "address": "0xBae8D8E87E4F501111264994dBf6355aC8a87861"
+  },
+  {
+    "address": "0x654b7cbbCfb7Bc3C84DF89CEe63B7B3ACB909A0B"
+  },
+  {
+    "address": "0x726CeE0Ee812b6a70058148D8880D96C750951f4"
+  },
+  {
+    "address": "0x96F6D83c4a544c7db92908D9906928C482e0CeE0"
+  },
+  {
+    "address": "0x211847Aae8F13fA3918Bd803dcb9E12A90007600"
+  },
+  {
+    "address": "0x2bd74614DB4694935Df678FC3623Bbe7123320FE"
+  },
+  {
+    "address": "0x5C8D6eB8106F8990094F1FB73E9f56A4eC28dD0e"
+  }
+]

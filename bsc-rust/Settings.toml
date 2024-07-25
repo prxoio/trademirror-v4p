@@ -1,0 +1,8 @@
+[general]
+target_address = "0x1b6F2d3844C6ae7D56ceb3C3643b9060ba28FEb0"
+redis_server = "redis://:7Ety6NB7km@localhost:6379"
+ws_url = "ws://127.0.0.1:8546"
+icp_path = "/home/fullnode/chaindata/snapshot/geth.pbss/geth/geth.ipc"
+[monitor]
+confirmed = true
+pending = true
